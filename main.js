@@ -1,5 +1,6 @@
 import "./style.css";
 import * as THREE from "three";
+import bg from "./public/bg.jpg";
 const bgTexture = textureLoader.load(bg);
 
 //canvas
